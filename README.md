@@ -13,3 +13,4 @@ To test the efficiency of the cryptographic ciphers on IOT devices and to do a c
 lock_files.py - AES file encryption 
 Reference - https://github.com/jlinoff/lock_files
 
+3DES.py - simple 3DES script that takes hardcoded file "to_enc.txt" and calculate the execution time 
