@@ -1,4 +1,4 @@
-# Infosys-Capstone-2019
+# IOT Security & Performance comparison of cryptographic algorithms
 
 Problem Statement
 When various stand-alone IOT devices are connecting to the Internet, it brings a lot of challenges, such as scalability, naming, resource constraints, inter-operability, security and privacy etc. Connectivity between internet and everyday objects and the capability to exchange data between them arises a lot of potential privacy and security risks. As a result, potential security and privacy risks exist in a broad scope, ranging from the physical world to the Internet, and if they are exploited it can cause a lot of damages.
