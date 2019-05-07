@@ -11,7 +11,7 @@ To study about the importance of cryptographic ciphers.
 To test the efficiency of the cryptographic ciphers on IOT devices and to do a comparative analysis on the cryptographic ciphers and IOT devices according to features like power consumption, CPU, RAM, processor etc. for execution speed for different data sizes.
 
 lock_files.py - AES file encryption 
-usage for encryption : lock_files.py -p password --lock file1.txt
+usage for encryption : lock_files.py -p password --lock file1.txt ||
 Reference - https://github.com/jlinoff/lock_files
 
 3DES.py - simple 3DES script that takes hardcoded file "to_enc.txt" and calculate the execution time 
